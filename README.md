@@ -6,7 +6,7 @@
 - <a href="https://www.comptia.org/en-us/certifications/security/">Active Directory Lab</a>
 - [Active Direcotry pt 2](https://www.comptia.org/en-us/certifications/security/)
 
-<h2>📁 Certification</h2>
+<h2>📁 Certifications</h2>
 
 - <a href="https://www.comptia.org/en-us/certifications/security/">CompTIA Security+ (SYO-701)</a>
 
