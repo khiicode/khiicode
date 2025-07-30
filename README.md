@@ -3,7 +3,7 @@
 <h2>💻 Cyber Security Projects:</h2>
 
 - <a href="https://www.comptia.org/en-us/certifications/security/">Build SIEM</a>
-- <a href="https://tryhackme.com/path/outline/presecurity">TryHackMe: Pre Security Path</a>
+- <a href="https://github.com/khiicode/THM-PreSecurity/tree/main">TryHackMe: Pre Security Path</a>
 - [TryHackMe: Cybersecurity 101](https://tryhackme.com/room/cybersecurity101)
 
 <h2>📁 Certifications</h2>
