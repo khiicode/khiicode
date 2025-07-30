@@ -3,8 +3,8 @@
 <h2>💻 Cyber Security Projects:</h2>
 
 - <a href="https://www.comptia.org/en-us/certifications/security/">Build SIEM</a>
-- <a href="https://www.comptia.org/en-us/certifications/security/">Active Directory Lab</a>
-- [Active Direcotry pt 2](https://www.comptia.org/en-us/certifications/security/)
+- <a href="https://tryhackme.com/path/outline/presecurity">TryHackMe: Pre Security Path</a>
+- [TryHackMe: Cybersecurity 101](https://tryhackme.com/room/cybersecurity101)
 
 <h2>📁 Certifications</h2>
 
