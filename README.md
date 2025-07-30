@@ -2,7 +2,7 @@
 
 <h2>💻 Cyber Security Projects:</h2>
 
-- <a href="https://www.comptia.org/en-us/certifications/security/">Building a Simple SIEM with Elasticsearch</a>
+- <a href="https://github.com/khiicode/ELK-Stack/blob/main/README.md">Building a Simple SIEM with Elasticsearch</a>
 - <a href="https://github.com/khiicode/THM-PreSecurity/tree/main">TryHackMe: Pre Security Path</a>
 
 
